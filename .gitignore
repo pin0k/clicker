@@ -71,3 +71,4 @@ node_modules/
 *.min.*
 .idea
 .DS_Store
+public/
